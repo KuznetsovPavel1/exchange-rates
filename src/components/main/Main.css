@@ -1,0 +1,16 @@
+.tbl-cell {
+  padding: 10px;
+}
+
+.tbl {
+  border-spacing: 0;
+  margin-top: 20px;
+}
+
+.tbl-head {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.tbl-row:nth-child(even) {
+  background-color: rgba(0, 0, 0, 0.1);
+}
